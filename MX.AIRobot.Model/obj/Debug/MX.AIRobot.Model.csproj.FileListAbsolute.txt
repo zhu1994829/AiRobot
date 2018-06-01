@@ -1,0 +1,14 @@
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\MX.AIRobot.Model.dll.config
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\MX.AIRobot.Model.dll
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\MX.AIRobot.Model.pdb
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\MX.AIRobot.Log.dll
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\MX.AIRobot.Interface.dll
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\log4net.dll
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\MX.AIRobot.Log.pdb
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\MX.AIRobot.Interface.pdb
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\bin\Debug\log4net.xml
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\obj\Debug\MX.AIRobot.Model.csprojResolveAssemblyReference.cache
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\obj\Debug\MX.AIRobot.Model.csproj.CoreCompileInputs.cache
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\obj\Debug\MX.AIRobot.Model.csproj.CopyComplete
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\obj\Debug\MX.AIRobot.Model.dll
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Model\obj\Debug\MX.AIRobot.Model.pdb

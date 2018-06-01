@@ -1,0 +1,6 @@
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Interface\bin\Debug\MX.AIRobot.Interface.dll
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Interface\bin\Debug\MX.AIRobot.Interface.pdb
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Interface\obj\Debug\MX.AIRobot.Interface.csprojResolveAssemblyReference.cache
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Interface\obj\Debug\MX.AIRobot.Interface.csproj.CoreCompileInputs.cache
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Interface\obj\Debug\MX.AIRobot.Interface.dll
+E:\IP-Robot\20src\trunk\AIRobot\MX.AIRobot.Interface\obj\Debug\MX.AIRobot.Interface.pdb
